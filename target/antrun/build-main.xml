@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <delete includeemptydirs="true" dir="/Users/user/Desktop/Ming Duan/Code/IFI/DEMO/microservice-openAPI-deproduct-catalog-service/target/generated-sources/openapi/src/test"></delete>
+</target>
+</project>
