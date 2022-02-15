@@ -12,7 +12,7 @@ import javax.validation.constraints.*;
  * A time interval in a given unit of time
  */
 @ApiModel(description = "A time interval in a given unit of time")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-02-16T02:51:54.355766+07:00[Asia/Ho_Chi_Minh]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-02-16T03:04:00.216089+07:00[Asia/Ho_Chi_Minh]")
 public class Duration   {
   @JsonProperty("amount")
   private Integer amount;

@@ -13,7 +13,7 @@ import javax.validation.constraints.*;
  * Place reference. PlaceRef defines the placeRefs where the products are sold or delivered.
  */
 @ApiModel(description = "Place reference. PlaceRef defines the placeRefs where the products are sold or delivered.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-02-16T02:51:54.355766+07:00[Asia/Ho_Chi_Minh]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-02-16T03:04:00.216089+07:00[Asia/Ho_Chi_Minh]")
 public class PlaceRef   {
   @JsonProperty("id")
   private String id;

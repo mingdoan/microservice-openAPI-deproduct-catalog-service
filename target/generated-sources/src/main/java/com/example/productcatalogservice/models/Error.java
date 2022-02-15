@@ -13,7 +13,7 @@ import javax.validation.constraints.*;
  * Used when an API throws an Error, typically with a HTTP error response-code (3xx, 4xx, 5xx)
  */
 @ApiModel(description = "Used when an API throws an Error, typically with a HTTP error response-code (3xx, 4xx, 5xx)")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-02-16T02:51:54.355766+07:00[Asia/Ho_Chi_Minh]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-02-16T03:04:00.216089+07:00[Asia/Ho_Chi_Minh]")
 public class Error   {
   @JsonProperty("code")
   private String code;

@@ -12,7 +12,7 @@ import javax.validation.constraints.*;
  * A base / value business entity used to represent money
  */
 @ApiModel(description = "A base / value business entity used to represent money")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-02-16T02:51:54.355766+07:00[Asia/Ho_Chi_Minh]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2022-02-16T03:04:00.216089+07:00[Asia/Ho_Chi_Minh]")
 public class Money   {
   @JsonProperty("unit")
   private String unit;
